@@ -62,6 +62,13 @@ If needed, a section can be split into subsections with a "------" delimiter.
 
 ## Learning Material Updates
 
+### How to: WGPU + Winit + ECS + Pixels
+
+[@nyxtom](https://twitter.com/nyxtom) published several articles in articles that explain how to 
+work with [ECS in Rust](https://nyxtom.dev/2020/10/06/ecs-in-rust/), an 
+explanation on [Winit and Pixels](https://nyxtom.dev/2020/10/07/winit-rust/), and an 
+in depth analysis of [Framebuffers, WGPU and Rust](https://nyxtom.dev/2020/10/08/framebuffers/).
+
 ## Library & Tooling Updates
 
 ## Popular Workgroup Issues in Github
